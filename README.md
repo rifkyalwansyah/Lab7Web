@@ -33,10 +33,34 @@ berbeda-beda sesuai pilihan pekerjaan.
 1. Membuat File file bernama form_umur_gaji.php
    ![image](https://github.com/user-attachments/assets/cba4ac3a-f0ff-4b49-9ab3-3284ec593092)
 
-2. hasi l
+2. input & hasil input l
+   ![image](https://github.com/user-attachments/assets/036ddb3b-1132-4fd0-afa2-8e8439136027)
 
+3. input & hasil input 2
+   ![image](https://github.com/user-attachments/assets/c2eb6365-8ee3-47f3-94d8-b8471b9bfa66)
 
-3. (test 1)
+## Penjelasan
+### Hasil Input
+Nama: 
+Tanggal Lahir: 
+Pekerjaan: Programmer
 
+### Output:
+Nama: 
+Tanggal Lahir: 
+Umur: 21 tahun
+Pekerjaan: Programmer
+Gaji: Rp. 8.000.000
 
-4. hasil (test 1)
+## test 2
+### Hasil Input
+Nama: Ahmad
+Tanggal Lahir: 2007-01-01
+Pekerjaan: Programmer
+
+### Output:
+Nama: Ahmad
+Tanggal Lahir: 2007-01-01
+Umur: 17 tahun
+Pekerjaan: Desainer
+Gaji: Rp. 7.000.000
