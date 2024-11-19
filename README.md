@@ -41,26 +41,26 @@ berbeda-beda sesuai pilihan pekerjaan.
 
 ## Penjelasan
 ### Hasil Input
-Nama: 
-Tanggal Lahir: 
+Nama: raden rifky alwansyah
+Tanggal Lahir: 2002-09-04
 Pekerjaan: Programmer
 
 ### Output:
-Nama: 
-Tanggal Lahir: 
+Nama: raden rifky alwansyah
+Tanggal Lahir: 2002-09-04
 Umur: 21 tahun
 Pekerjaan: Programmer
 Gaji: Rp. 8.000.000
 
 ## test 2
 ### Hasil Input
-Nama: Ahmad
-Tanggal Lahir: 2007-01-01
+Nama: Rifky Alwansyah
+Tanggal Lahir: 2019-01-10
 Pekerjaan: Programmer
 
 ### Output:
-Nama: Ahmad
-Tanggal Lahir: 2007-01-01
-Umur: 17 tahun
+Nama: Rifky Alwansyah
+Tanggal Lahir: 2019-01-10
+Umur: 5 tahun
 Pekerjaan: Desainer
 Gaji: Rp. 7.000.000
