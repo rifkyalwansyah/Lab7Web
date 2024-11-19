@@ -30,4 +30,13 @@ nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitun
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
+1. Membuat File file bernama form_umur_gaji.php
+   ![image](https://github.com/user-attachments/assets/cba4ac3a-f0ff-4b49-9ab3-3284ec593092)
 
+2. hasi l
+
+
+3. (test 1)
+
+
+4. hasil (test 1)
